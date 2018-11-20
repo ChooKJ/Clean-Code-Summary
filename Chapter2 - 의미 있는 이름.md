@@ -56,6 +56,7 @@
     }
     ```
     복잡한 코드는 아니나, 코드 맥락이 코드 자체에 명시적으로 드러나지 않는다.
+
   - 좋은 예
     ```java
     public List<int[]> getFlaggedCells() {
@@ -69,6 +70,7 @@
     }
     ```
     각 개념에 이름을 붙히니 코드가 더욱 명확해졌다.
+
   - 더 좋은 예
     ```java
     public List<Cell> getFlaggedCells() {
