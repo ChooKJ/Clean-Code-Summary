@@ -209,7 +209,7 @@
     ```java
     // 더하기 함수
     public static int add(int a, int b)
-    // 배열 뒤에 element 하나 추가
+    // list에 element 하나 추가
     public List<Element> add(Element element)
     ```
 - 위는 아래와 같이 add를 insert나 append라는 이름으로 바꾸는게 적당하다.
